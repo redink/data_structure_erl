@@ -1,0 +1,14 @@
+{application, dsa_erl,
+ [
+  {description, "An Erlang dsa_erl library"},
+  {vsn, "1"},
+  {modules, [
+             dsa_erl
+            ]},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.

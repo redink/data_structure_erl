@@ -1,0 +1,8 @@
+*~
+.DS_Store
+ebin
+*.beam
+log
+vm.args.bak
+.rebar
+.eunit
